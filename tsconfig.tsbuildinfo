@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/logger.ts","./src/store.ts"],"version":"6.0.3"}
+{"root":["./src/pubsubmanager.ts","./src/index.ts","./src/store.ts"],"version":"6.0.3"}
